@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kirsten Mining - Tracking</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="../index.php">Home</a></li>
+            <li><a href="../about.html">About</a></li>
+            <li><a href="../service.html">Services</a></li>
+            <li><a href="../contact.php">Contact</a></li>
+            <li id="google_translate_element"></li>
+        </ul>
+    </nav>
+    
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+   
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <h1>Track Your Order</h1>
+        <form action="../tracker_info.php" method="get">
+            <label for="tracking_number">Enter your tracking number:</label>
+            <input type="text" name="tracker" placeholder="Your Tracking  ID Now" required>
+            <br><br>
+            <button type="submit">Track</button>
+        </form>
+    </div>
+</body>
+</html>

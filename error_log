@@ -1,0 +1,62 @@
+[23-Sep-2024 13:53:01 UTC] PHP Warning:  Undefined variable $tracker_transport in /home4/globalco/public_html/tracking_details.php on line 257
+[23-Sep-2024 13:53:01 UTC] PHP Warning:  Undefined variable $tracker_pieces in /home4/globalco/public_html/tracking_details.php on line 261
+[23-Sep-2024 14:02:57 UTC] PHP Warning:  Undefined variable $tracker_transport in /home4/globalco/public_html/tracking_details.php on line 257
+[23-Sep-2024 14:02:57 UTC] PHP Warning:  Undefined variable $tracker_pieces in /home4/globalco/public_html/tracking_details.php on line 261
+[23-Sep-2024 16:48:30 UTC] PHP Warning:  Undefined variable $tracker_transport in /home4/globalco/public_html/tracking_details.php on line 257
+[23-Sep-2024 16:48:30 UTC] PHP Warning:  Undefined variable $tracker_pieces in /home4/globalco/public_html/tracking_details.php on line 261
+[25-Sep-2024 08:48:49 UTC] PHP Warning:  Undefined variable $tracker_transport in /home4/globalco/public_html/tracking_details.php on line 257
+[25-Sep-2024 08:48:49 UTC] PHP Warning:  Undefined variable $tracker_pieces in /home4/globalco/public_html/tracking_details.php on line 261
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 128
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_origin in /home4/globalco/public_html/tracking_details.php on line 128
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracking_details.php on line 128
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $color1 in /home4/globalco/public_html/tracking_details.php on line 130
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_update_time in /home4/globalco/public_html/tracking_details.php on line 132
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracking_details.php on line 132
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 224
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $sender_name in /home4/globalco/public_html/tracking_details.php on line 228
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $receiver_name in /home4/globalco/public_html/tracking_details.php on line 232
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $receiver_number in /home4/globalco/public_html/tracking_details.php on line 236
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $email in /home4/globalco/public_html/tracking_details.php on line 240
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $parcel_name in /home4/globalco/public_html/tracking_details.php on line 245
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_origin in /home4/globalco/public_html/tracking_details.php on line 249
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracking_details.php on line 253
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_transport in /home4/globalco/public_html/tracking_details.php on line 257
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_pieces in /home4/globalco/public_html/tracking_details.php on line 261
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_weight in /home4/globalco/public_html/tracking_details.php on line 265
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_cubic in /home4/globalco/public_html/tracking_details.php on line 269
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_required_by in /home4/globalco/public_html/tracking_details.php on line 273
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_delivery_date in /home4/globalco/public_html/tracking_details.php on line 277
+[25-Sep-2024 09:03:32 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 284
+[28-Sep-2024 17:02:51 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracker_info.php on line 67
+[28-Sep-2024 17:02:51 UTC] PHP Warning:  Undefined variable $tracker_origin in /home4/globalco/public_html/tracker_info.php on line 68
+[28-Sep-2024 17:02:51 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracker_info.php on line 68
+[28-Sep-2024 17:02:51 UTC] PHP Warning:  Undefined variable $tracker_update_time in /home4/globalco/public_html/tracker_info.php on line 69
+[28-Sep-2024 17:02:51 UTC] PHP Warning:  Undefined variable $tracker_status in /home4/globalco/public_html/tracker_info.php on line 70
+[28-Sep-2024 17:02:51 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracker_info.php on line 71
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 128
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_origin in /home4/globalco/public_html/tracking_details.php on line 128
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracking_details.php on line 128
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $color1 in /home4/globalco/public_html/tracking_details.php on line 130
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_update_time in /home4/globalco/public_html/tracking_details.php on line 132
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracking_details.php on line 132
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_num in /home4/globalco/public_html/tracking_details.php on line 150
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 224
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $sender_name in /home4/globalco/public_html/tracking_details.php on line 228
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $receiver_name in /home4/globalco/public_html/tracking_details.php on line 232
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $receiver_number in /home4/globalco/public_html/tracking_details.php on line 236
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $email in /home4/globalco/public_html/tracking_details.php on line 240
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $parcel_name in /home4/globalco/public_html/tracking_details.php on line 245
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_origin in /home4/globalco/public_html/tracking_details.php on line 249
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_destination in /home4/globalco/public_html/tracking_details.php on line 253
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_transport in /home4/globalco/public_html/tracking_details.php on line 257
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_pieces in /home4/globalco/public_html/tracking_details.php on line 261
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_weight in /home4/globalco/public_html/tracking_details.php on line 265
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_cubic in /home4/globalco/public_html/tracking_details.php on line 269
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_required_by in /home4/globalco/public_html/tracking_details.php on line 273
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_delivery_date in /home4/globalco/public_html/tracking_details.php on line 277
+[28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 284
+[05-Oct-2024 12:53:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/contact.php on line 2
+[05-Oct-2024 12:54:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/sendmail.php on line 2
+[05-Oct-2024 12:54:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/globalco/public_html/sendmail.php:1) in /home4/globalco/public_html/sendmail.php on line 25
+[05-Oct-2024 12:55:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/sendmail.php on line 2
+[05-Oct-2024 12:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/globalco/public_html/sendmail.php:1) in /home4/globalco/public_html/sendmail.php on line 25
