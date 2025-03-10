@@ -55,7 +55,7 @@
 [28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_required_by in /home4/globalco/public_html/tracking_details.php on line 273
 [28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_delivery_date in /home4/globalco/public_html/tracking_details.php on line 277
 [28-Sep-2024 17:03:22 UTC] PHP Warning:  Undefined variable $tracker_number in /home4/globalco/public_html/tracking_details.php on line 284
-[05-Oct-2024 12:53:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/contact.php on line 2
+[05-Oct-2024 12:53:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/contact.html on line 2
 [05-Oct-2024 12:54:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/sendmail.php on line 2
 [05-Oct-2024 12:54:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/globalco/public_html/sendmail.php:1) in /home4/globalco/public_html/sendmail.php on line 25
 [05-Oct-2024 12:55:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/globalco/public_html/sendmail.php on line 2

@@ -804,7 +804,7 @@
 
         /**
         * Modified version of Jeffery To's array intersection method
-        * @see {@link http://www.falsepositives.com/index.php/2009/12/01/javascript-function-to-get-the-intersect-of-2-arrays/}
+        * @see {@link http://www.falsepositives.com/index.html/2009/12/01/javascript-function-to-get-the-intersect-of-2-arrays/}
         * @return {Object[]} a disjoint array containing the elements of the first array not found in the second
         * @private
         */
